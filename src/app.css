@@ -1,0 +1,13 @@
+.container{
+    display:flex;
+    margin-top:10px;
+  
+
+}
+.timro{
+    flex:1;
+}
+.hamro{
+    flex:4;
+    
+}
